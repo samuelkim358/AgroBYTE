@@ -1,0 +1,26 @@
+{
+  "status": "CANDIDATO_REVISADO_PENDIENTE_APROBACION_Y_PUBLICACION_FIRA",
+  "origen": "AgroBYTE 2.0 - fase4, 2026-10-15",
+  "n_parcelas_entrenamiento": 138,
+  "n_parcelas_inferencia": 59,
+  "caracteristicas": [
+    "AREA_HA",
+    "latitud",
+    "longitud",
+    "estado",
+    "municipio"
+  ],
+  "metricas_cv_anidada": {
+    "rmse_t_ha": 0.5033839525043555,
+    "mae_t_ha": 0.35149652378708246,
+    "r2": 0.6476826446670407
+  },
+  "sha256": {
+    "datos/predicciones_59.csv": "c56cf01dfc90b2d1d9336fe0a399028fed7b1f9bdcc43e9a75f37da6dca5ff75",
+    "datos/entradas_59.csv": "0a262d755483360f503339b89d1eeed81a5d86db3e0c319364c9907c7d0cdfb8",
+    "datos/poligonos_59.geojson": "cc373e1cb0bc7938b8be711ede4be1e570f4771e7d822a78376244a3d6e9d12b",
+    "modelo/modelo_extratrees_geografico.joblib": "081c3ee278df033dccdb35f5891f66d8bc1b0975429ea282bb244881f2894d43"
+  },
+  "control_ejecucion": "Comparar modelo contra 59 predicciones originales; bloquear si no coinciden",
+  "advertencia": "No inferir sobre terrenos nuevos, otros ciclos ni antes de la siembra; geometrías derivadas sujetas a autorización de publicación."
+}

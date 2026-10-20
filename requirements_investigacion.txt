@@ -1,0 +1,10 @@
+# Para rehacer fases históricas con el dataset original autorizado.
+-r requirements.txt
+geopandas>=1.0,<2
+shapely>=2.0,<3
+pyproj>=3.6,<4
+rasterio>=1.4,<2
+scipy>=1.12,<2
+matplotlib>=3.8,<4
+catboost>=1.2,<2
+xgboost>=2.1,<5

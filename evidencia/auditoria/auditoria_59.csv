@@ -1,0 +1,60 @@
+ID_POLIGONO,estado,municipio,AREA_HA,RENDIMIENTO_PREDICHO_T_HA,distancia_vecino_1_km,distancia_vecino_3_km,id_vecino_1,municipio_vecino_1,municipio_representado,vecino_del_mismo_municipio,supera_p95_distancia,dentro_envolvente_estado,dentro_rango_observado_estado
+AGC_003,Hidalgo,Singuilucan,18.680000,3.200563,0.382348,3.175382,AGC_081,Singuilucan,True,True,False,False,True
+AGC_011,Puebla,Chignahuapan,7.170000,4.445751,0.839296,0.952097,AGC_056,Chignahuapan,True,True,False,True,True
+AGC_016,Puebla,Chignahuapan,7.470000,4.309215,0.171322,0.599070,AGC_002,Chignahuapan,True,True,False,True,True
+AGC_025,Tlaxcala,Calpulalpan,2.000000,2.866421,0.399865,1.128778,AGC_040,Calpulalpan,True,True,False,True,True
+AGC_027,Tlaxcala,Calpulalpan,8.460000,2.975817,0.526022,1.246084,AGC_058,Calpulalpan,True,True,False,True,True
+AGC_028,Puebla,Chignahuapan,1.860000,4.551081,0.204431,0.558997,AGC_181,Chignahuapan,True,True,False,True,True
+AGC_029,Tlaxcala,Calpulalpan,5.900000,3.078369,0.783319,1.869325,AGC_001,Calpulalpan,True,True,False,True,True
+AGC_030,Hidalgo,Singuilucan,13.050000,3.119170,0.506657,0.614066,AGC_078,Singuilucan,True,True,False,True,True
+AGC_031,Puebla,Chignahuapan,1.980000,4.325407,0.181907,0.692695,AGC_195,Chignahuapan,True,True,False,True,True
+AGC_036,Puebla,Chignahuapan,5.000000,4.333045,0.296692,0.454140,AGC_104,Chignahuapan,True,True,False,True,True
+AGC_039,Tlaxcala,Calpulalpan,7.710000,2.911203,0.484961,1.581016,AGC_144,Calpulalpan,True,True,False,True,True
+AGC_042,Hidalgo,Singuilucan,3.810000,3.049744,0.316590,0.550209,AGC_038,Singuilucan,True,True,False,True,True
+AGC_043,Puebla,Chignahuapan,7.150000,4.289343,0.350053,0.415466,AGC_105,Chignahuapan,True,True,False,True,True
+AGC_050,Tlaxcala,Calpulalpan,2.420000,2.928319,0.600010,0.727402,AGC_019,Calpulalpan,True,True,False,True,True
+AGC_052,Hidalgo,Cuautepec de Hinojosa,6.230000,4.563148,0.245329,0.321524,AGC_009,Cuautepec de Hinojosa,True,True,False,True,True
+AGC_061,Tlaxcala,Calpulalpan,7.230000,3.017458,0.987795,2.286101,AGC_074,Calpulalpan,True,True,False,False,True
+AGC_063,Puebla,Chignahuapan,12.540000,4.362736,0.619667,0.677249,AGC_062,Chignahuapan,True,True,False,True,True
+AGC_065,Hidalgo,Almoloya,60.880000,4.453805,1.922749,2.288894,AGC_051,Almoloya,True,True,False,True,True
+AGC_071,Tlaxcala,Calpulalpan,5.210000,3.100395,0.197412,1.102899,AGC_037,Calpulalpan,True,True,False,True,True
+AGC_075,Tlaxcala,Calpulalpan,3.900000,3.112891,0.385689,0.492557,AGC_157,Calpulalpan,True,True,False,True,True
+AGC_076,Puebla,Chignahuapan,1.010000,4.714704,0.310108,0.584876,AGC_168,Chignahuapan,True,True,False,True,True
+AGC_082,Hidalgo,Almoloya,2.770000,4.557283,0.494830,0.658421,AGC_059,Almoloya,True,True,False,True,True
+AGC_085,Puebla,Chignahuapan,5.500000,4.264767,0.226355,0.674174,AGC_026,Chignahuapan,True,True,False,True,True
+AGC_086,Tlaxcala,Calpulalpan,4.730000,2.964629,0.575476,0.897062,AGC_112,Calpulalpan,True,True,False,True,True
+AGC_087,Tlaxcala,Calpulalpan,5.660000,3.014822,0.224976,1.267337,AGC_054,Calpulalpan,True,True,False,True,True
+AGC_088,Puebla,Chignahuapan,5.910000,4.375658,0.135963,0.497582,AGC_165,Chignahuapan,True,True,False,True,True
+AGC_091,Puebla,Chignahuapan,0.350000,4.698957,0.093560,0.447240,AGC_167,Chignahuapan,True,True,False,True,True
+AGC_093,Tlaxcala,Calpulalpan,3.710000,3.117978,0.369704,0.436481,AGC_157,Calpulalpan,True,True,False,True,True
+AGC_094,Puebla,Chignahuapan,3.630000,4.695915,0.187189,1.599939,AGC_056,Chignahuapan,True,True,False,False,True
+AGC_095,Puebla,Chignahuapan,1.330000,4.655218,0.214208,0.495942,AGC_181,Chignahuapan,True,True,False,True,True
+AGC_107,Hidalgo,Almoloya,2.630000,4.547622,0.201075,0.599375,AGC_184,Almoloya,True,True,False,True,True
+AGC_113,Hidalgo,Singuilucan,10.580000,2.983959,0.225974,0.546664,AGC_038,Singuilucan,True,True,False,True,True
+AGC_116,Puebla,Chignahuapan,7.430000,4.298134,0.201449,0.598708,AGC_014,Chignahuapan,True,True,False,True,True
+AGC_118,Hidalgo,Singuilucan,4.420000,3.096939,1.073236,1.368260,AGC_121,Singuilucan,True,True,False,True,True
+AGC_120,Tlaxcala,Nanacamilpa de Mariano Arista,7.470000,3.005806,1.264770,2.429247,AGC_054,Calpulalpan,True,False,False,False,True
+AGC_126,Puebla,Chignahuapan,5.750000,4.394986,0.301521,0.747690,AGC_111,Chignahuapan,True,True,False,False,True
+AGC_128,Hidalgo,Almoloya,6.150000,4.519454,0.249259,0.753217,AGC_146,Almoloya,True,True,False,True,True
+AGC_129,Hidalgo,Singuilucan,8.160000,3.108962,0.517378,2.723187,AGC_081,Singuilucan,True,True,False,True,True
+AGC_130,Hidalgo,Cuautepec de Hinojosa,12.100000,4.546775,0.447633,0.757659,AGC_064,Cuautepec de Hinojosa,True,True,False,False,True
+AGC_136,Puebla,Chignahuapan,1.690000,4.468835,0.184114,0.485882,AGC_002,Chignahuapan,True,True,False,True,True
+AGC_142,Puebla,Chignahuapan,1.290000,4.770342,0.066677,0.781842,AGC_057,Chignahuapan,True,True,False,True,True
+AGC_143,Puebla,Chignahuapan,11.480000,4.407903,0.319323,1.131697,AGC_090,Chignahuapan,True,True,False,False,True
+AGC_147,Tlaxcala,Calpulalpan,6.800000,2.948341,1.173017,2.365558,AGC_144,Calpulalpan,True,True,False,False,True
+AGC_149,Hidalgo,Cuautepec de Hinojosa,8.990000,4.556110,0.253770,0.538056,AGC_064,Cuautepec de Hinojosa,True,True,False,False,True
+AGC_153,Puebla,Chignahuapan,1.990000,4.355012,0.516132,0.849539,AGC_195,Chignahuapan,True,True,False,True,True
+AGC_154,Puebla,Chignahuapan,1.490000,4.581488,0.281947,0.429233,AGC_168,Chignahuapan,True,True,False,True,True
+AGC_156,Hidalgo,Singuilucan,8.200000,3.176295,0.767432,2.471683,AGC_140,Singuilucan,True,True,False,False,True
+AGC_158,Puebla,Chignahuapan,11.220000,4.167721,0.342681,0.549353,AGC_102,Chignahuapan,True,True,False,True,True
+AGC_173,Tlaxcala,Calpulalpan,3.600000,2.913051,1.701734,2.672572,AGC_187,Calpulalpan,True,True,False,True,True
+AGC_174,Hidalgo,Cuautepec de Hinojosa,6.890000,4.536520,1.645184,3.797888,AGC_083,Cuautepec de Hinojosa,True,True,False,True,True
+AGC_175,Puebla,Chignahuapan,1.410000,4.582695,0.264953,0.811754,AGC_017,Chignahuapan,True,True,False,True,True
+AGC_177,Puebla,Chignahuapan,5.660000,4.266813,0.364621,0.632465,AGC_026,Chignahuapan,True,True,False,True,True
+AGC_182,Puebla,Chignahuapan,4.130000,4.453583,0.400776,0.944792,AGC_017,Chignahuapan,True,True,False,True,True
+AGC_183,Tlaxcala,Calpulalpan,7.850000,2.952753,1.091311,1.334874,AGC_163,Calpulalpan,True,True,False,True,True
+AGC_186,Puebla,Chignahuapan,11.700000,4.320452,0.550806,0.705524,AGC_062,Chignahuapan,True,True,False,True,True
+AGC_188,Puebla,Chignahuapan,2.340000,4.559623,0.336243,0.766943,AGC_017,Chignahuapan,True,True,False,True,True
+AGC_190,Puebla,Chignahuapan,5.010000,4.545075,0.289569,0.448761,AGC_006,Chignahuapan,True,True,False,True,True
+AGC_191,Puebla,Chignahuapan,1.750000,4.595203,0.211520,0.566649,AGC_057,Chignahuapan,True,True,False,True,True
+AGC_192,Puebla,Chignahuapan,2.140000,4.512055,0.762175,0.852970,AGC_161,Chignahuapan,True,True,False,True,True

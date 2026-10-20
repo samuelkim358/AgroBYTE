@@ -1,0 +1,22 @@
+{
+  "generado_utc": "2026-10-15T18:56:14.500102+00:00",
+  "entrenamiento": 138,
+  "prediccion_oculta": 59,
+  "semillas": [
+    42,
+    73,
+    2026
+  ],
+  "folds": 5,
+  "nubosidad_max_pct": 20,
+  "modelo": "ExtraTrees Fase2 n_estimators=150 min_samples_leaf=3 max_features=0.85",
+  "n_variables_matriz": 166,
+  "familias": {
+    "geo": 5,
+    "indices": 126,
+    "calidad": 6,
+    "clima": 27,
+    "topo": 2
+  },
+  "nota": "SOLO EXPLICATIVO: ninguna predicción del modelo Fase 4 ha sido recalculada"
+}

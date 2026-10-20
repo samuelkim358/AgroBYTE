@@ -1,0 +1,10 @@
+# Aplicación pública: buscamos reproducir el modelo original sin reentrenamiento.
+# La serialización de Fase 4 registra scikit-learn 1.9.1; mantenemos esa versión.
+streamlit>=1.40,<2
+streamlit-folium>=0.23,<1
+folium>=0.19,<1
+plotly>=6,<7
+pandas>=2.3,<3
+numpy>=2.3,<3
+scikit-learn==1.9.1
+joblib>=1.5,<2

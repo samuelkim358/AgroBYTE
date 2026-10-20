@@ -1,0 +1,15 @@
+{
+  "parcelas_etiquetadas": 138,
+  "parcelas_ocultas": 59,
+  "municipios_ocultos_representados": 59,
+  "vecino_mismo_municipio": 58,
+  "distancia_mediana_km": 0.35005304195514125,
+  "distancia_max_km": 1.9227485745424078,
+  "referencia_p95_entrenamiento_km": 2.027230734053108,
+  "parcelas_mas_aisladas_que_p95": 0,
+  "ocultas_dentro_envolvente_estado": 49,
+  "ocultas_fuera_envolvente_estado": 10,
+  "predicciones_en_rango_estatal_observado": 59,
+  "advertencia": "La proximidad geográfica no prueba similitud agronómica ni exactitud de las predicciones.",
+  "auditoria_sesgo_oof_disponible": true
+}

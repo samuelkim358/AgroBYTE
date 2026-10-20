@@ -1,0 +1,16 @@
+# Evitamos compartir archivos oficiales, credenciales y entornos privados.
+DATASET_RETO_AGRO_2026/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+.env
+.env.*
+
+*.key
+*.pem
+.DS_Store
+# Los modelos y los datos mínimos firmados SÍ forman parte de la entrega.
+# No ignoramos modelo/*.joblib ni datos/.

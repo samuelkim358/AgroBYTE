@@ -1,0 +1,38 @@
+{
+  "estado": "CANDIDATO_PENDIENTE_REVISION_EQUIPO_NO_ENTREGA",
+  "generado_utc": "2026-10-15T15:03:01.170336+00:00",
+  "algoritmo": "extratrees",
+  "candidato": "geo_extratrees",
+  "grupo_variables": "geografia",
+  "columnas": [
+    "AREA_HA",
+    "latitud",
+    "longitud",
+    "estado",
+    "municipio"
+  ],
+  "etiquetas_entrenamiento": 138,
+  "parcelas_prediccion": 59,
+  "metricas_validacion_anidada_fase3": {
+    "rmse_t_ha": 0.5033839525043555,
+    "mae_t_ha": 0.35149652378708246,
+    "r2": 0.6476826446670407
+  },
+  "versiones": {
+    "python": "3.14.7",
+    "sklearn": "1.9.1",
+    "pandas": "2.3.3",
+    "numpy": "2.5.3"
+  },
+  "sha256_dataset_objetivo": "ec07b7ede0ae692109d91b3e941b1a353fe7f89410507db9bfbe6d7c112590ef",
+  "sha256_matriz_fase1": "3a642753e1d2a22073c2751e39b9317d60ea6bd3da9c06cf93636330e2c24a79",
+  "sha256_modelo": "081c3ee278df033dccdb35f5891f66d8bc1b0975429ea282bb244881f2894d43",
+  "sha256_csv_completo": "c56cf01dfc90b2d1d9336fe0a399028fed7b1f9bdcc43e9a75f37da6dca5ff75",
+  "sha256_csv_minimo": "2c71d109c24224ae176fd98c2f3f99f9852fc665a04e92833ba5718febb7fd09",
+  "advertencias": [
+    "Las métricas corresponden a validación con 138 etiquetas; no son de FIRA.",
+    "El modelo geográfico interpola entre zonas representadas; generaliza peor a municipios desconocidos.",
+    "No está validado para predicción previa a la siembra ni para parcelas arbitrarias.",
+    "Las predicciones deben ser revisadas por el equipo antes de entregarlas."
+  ]
+}
